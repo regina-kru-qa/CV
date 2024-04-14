@@ -1,2 +1,2 @@
-# regina-kru-qa.github.io
+# CV
 Сайт визитка HTML, CSS
